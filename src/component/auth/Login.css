@@ -65,16 +65,16 @@
 
 .login__logo__sec{
   background-color: white;
-  border-radius: 50%;
-  position: relative;
-  top: -100px;
-  align-items: center;
-  justify-content: center;
-  left: -100px;
-  width: 430px;
-  height: 430px;
-  display: flex;
-  flex-direction: column;
+    border-radius: 50%;
+    position: relative;
+    top: -85px;
+    align-items: center;
+    justify-content: center;
+    left: -66px;
+    width: 430px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
 }
 
 .login__logo{
